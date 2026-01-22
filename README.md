@@ -1,4 +1,4 @@
-# _AutomatedLinkAcceptance
+# _AutomatedMounting
 UserDemand for automation of the link acceptance
 
 The _AutomatedLinkAcceptance UserDemand shall be redesigned from batch execution once a day to device individual execution of a pre-acceptance by the GU on site.  
